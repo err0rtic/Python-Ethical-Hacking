@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+certifi==2020.6.20
+chardet==4.0.0
+dnspython==2.2.0
+idna==3.2
+nslookup==1.6.1
+pygeoip==0.3.2
+requests==2.25.1
+soupsieve==2.3.1
+urllib3==1.26.5
+whois==0.8
